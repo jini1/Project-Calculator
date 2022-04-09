@@ -1,1 +1,1 @@
-git push heroku master
+$ heroku buildpacks:set heroku/python
